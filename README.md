@@ -13,7 +13,7 @@
 ![Zuhaira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZuhairaTech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Zuhaira's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZuhairaTech&theme=dark&hide_border=false)
 ![Zuhaira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhairaTech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![roadmap.sh][https://roadmap.sh/card/wide/675f7d2cecc889bb0ddd8e0a?variant=dark](https://roadmap.sh/r/backend-and-beyond)]
+[![roadmap.sh](https://roadmap.sh/card/tall/675f7d2cecc889bb0ddd8e0a?variant=dark)](https://roadmap.sh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
